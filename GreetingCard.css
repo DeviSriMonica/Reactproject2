@@ -1,0 +1,23 @@
+/* Custom styles for the GreetingCard component */
+
+.GreetingCard {
+  background-color: #f0f0f0;
+  color: #333;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  margin: auto;
+}
+
+.GreetingCard h2 {
+  /* Styles for the title (if provided) */
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.GreetingCard p {
+  /* Styles for the message */
+  font-size: 18px;
+  margin: 0;
+}
